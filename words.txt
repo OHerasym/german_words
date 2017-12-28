@@ -1,0 +1,59 @@
+Яблуко, der Apfel
+Грудень, der Dezember
+Листопад, der November
+Жовтень, der Oktober
+Вересень, der September
+Серпень, der August
+Травень, der Mai
+Квітень, der April
+Березень, der März
+Лютий, der Februar
+Січень, der Januar
+Інтернет, im Internet surfen
+Хоббі, das Hobby
+Спорт, der Sport
+Плавати, schwimmen
+Їздити на велисопеді, Fahrrad fahren
+Написати лист, Briefe schreiben
+Лист, der Brief
+Дозвілля, die Freizeit
+Дискотека, die Disko
+Велисопед, das Fahrrad
+Компютерні ігри, das Computerspiel
+Зустрітись з друзями, Freunde treffen
+Гриль, grillen
+Менеджер, der Manager
+Секретар, der Sekretär
+Режисер, der Regisseur
+Музикант, der Musiker
+Повар, der Koch
+Художник, der Maler
+Гостьовий працівник, der Gastarbeiter
+Лікар, der arzt
+Лікар(жінка), der Ärztin
+Медсестра, die krankenschwester
+Медбрат, der krankenpfleger
+Стоматолог, der zahnarzt
+Акушерка, die Hebamme
+Водій, der Fahrer
+Водій авто, der Autofahrer
+Водій автобуса, der busfahrer
+Поліцейський, der Polizist
+Механік, der Mechaniker
+Офіціант, der Kellner
+Офіціантка, der Kellnerin
+Пекар, der Bäcker
+М'ясник, der Metzger
+М'ясник 2, der Fleischer
+Таксист, der Taxifahler
+Прибиральниця, die Putzfrau
+Доцент, der Dozent
+Професор, der Professor
+Школяр, der Schüler
+Школярка, die Schülerin
+Держслужбовець, der Beamte
+Прибиральниця (нове), die Raumpflegerin
+Домохазяйка, die Hausfrau
+Заняття (уроки), der Unterricht
+Навчати, unterrichten
+Лікар швидкої допомоги, der Notarzt
