@@ -10,4 +10,4 @@
 4) Download repo:
 git clone https://github.com/OHerasym/german_words/
 
-5) run test_gui.py
+5) run gui_test.py
