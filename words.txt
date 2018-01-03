@@ -29,19 +29,19 @@
 Повар, der Koch
 Художник, der Maler
 Гостьовий працівник, der Gastarbeiter
-Лікар, der arzt
+Лікар, der Arzt
 Лікар(жінка), der Ärztin
-Медсестра, die krankenschwester
-Медбрат, der krankenpfleger
-Стоматолог, der zahnarzt
+Медсестра, die Krankenschwester
+Медбрат, der Krankenpfleger
+Стоматолог, der Zahnarzt
 Акушерка, die Hebamme
 Водій, der Fahrer
 Водій авто, der Autofahrer
-Водій автобуса, der busfahrer
+Водій автобуса, der Busfahrer
 Поліцейський, der Polizist
 Механік, der Mechaniker
 Офіціант, der Kellner
-Офіціантка, der Kellnerin
+Офіціантка, die Kellnerin
 Пекар, der Bäcker
 М'ясник, der Metzger
 М'ясник 2, der Fleischer
