@@ -18,25 +18,16 @@ for i in range(len(words)):
 	set_answers(answers)
 	answer = easygui.buttonbox(words[random_1][0], 'German', answers)
 
-
-	if answer is words[random_1][1]:
-		print('OK!')
-	else:
-		print('Wrong!')
+	print('OK!') if answer is words[random_1][1] else print('Wrong!')
 	
 	field_names = ['Enter word:']
 	field_value = easygui.multenterbox(words[random_1][0], '123', field_names)
-	# print(field_value)
-	# print(field_value[0])
-	# print(words[random_1][1])
 
 	check_work = ' ' + field_value[0]
-	# print(check_work)
 
 	if check_work in words[random_1][1]:
 		print('OK OK!')
 	else:
-		print('Wrong Wrong!')
-		print('Correct answer: ', words[random_1][1])
+		print('Wrong Wrong!\nCorrect answer: ', words[random_1][1])
 
-	time.sleep(400)
+	time.sleep(300)

@@ -75,7 +75,7 @@
 Щасливий, glücklich
 Задоволений, zufrieden
 Льодяники, die Bonbons
-Блискавка, blitzschnell
+Блискавично, blitzschnell
 Різдвяне місто, Die Weihnachtsstadt
 Полум'я, die Flamme
 Свічка, die Kerze
@@ -98,3 +98,5 @@
 Весілля, die Hochzeit
 Дитячий садок, der Kindergarten
 Стомлений, müde
+Швидко, schnell
+Блискавка, blitz
