@@ -1,6 +1,4 @@
-import sys
 import easygui
-import codecs
 import io
 import random
 import time
@@ -16,6 +14,18 @@ def set_answers(list_answers):
 def get_random():
 	return random.randrange(len(words))
 
+def check_word(word, answer):
+	field_names = ['Enter word:']
+	field_value = easygui.multenterbox(word, '123', field_names)
+	check_work = ' ' + field_value[0]
+
+	if check_work in answer:
+		pass
+	else:
+		MessageBox(None, 'Correct is: ' + answer, 'Wrong!', 0)
+		check_word(word, answer)
+
+
 for i in range(len(words)):
 	random_1, random_2, random_3 = get_random(), get_random(), get_random()
 	random_4, random_5, random_6 = get_random(), get_random(), get_random()
@@ -30,12 +40,7 @@ for i in range(len(words)):
 
 	answer_2 = easygui.buttonbox(words[random_4][1], 'Ukr', answers_2)
 	None if answer_2 is words[random_4][0] else MessageBox(None, 'Wrong!', 'Wrong!', 0)
-	
-	field_names = ['Enter word:']
-	field_value = easygui.multenterbox(words[random_1][0], '123', field_names)
 
-	check_work = ' ' + field_value[0]
-
-	None if check_work in words[random_1][1] else MessageBox(None, 'Correct is: ' + words[random_1][1], 'Wrong!', 0)
+	check_word(words[random_1][0], words[random_1][1])
 
 	time.sleep(300)
