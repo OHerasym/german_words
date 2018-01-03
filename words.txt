@@ -57,3 +57,44 @@
 Заняття (уроки), der Unterricht
 Навчати, unterrichten
 Лікар швидкої допомоги, der Notarzt
+Стук, klopf
+Повний, voll
+Повний робочий день, vollzeit
+Повністю, total
+Світло(радісно), hell
+Тому що, weil
+Гном, der Zwerg
+Іграшка, das Spielzeug
+Загортати, einpacken
+Заповнити, füllen
+Санки, der Schlitten
+Дуже смачно, lecker
+Залізниця, eisenbahn
+Список, die Liste
+Знати, kennen
+Щасливий, glücklich
+Задоволений, zufrieden
+Льодяники, die Bonbons
+Блискавка, blitzschnell
+Різдвяне місто, Die Weihnachtsstadt
+Полум'я, die Flamme
+Свічка, die Kerze
+Яслі, die Krippe
+Зірка, die Stern
+Пряники, die Lebkuchen
+Осел, der Esel
+Ялинка, der Tannenbaum
+Король, der König
+Санта-Клаус, der Weihnachtsmann
+Подарунок, das Geschenk
+Ялинка, das Weihnachtsbaum
+Семестр, das Semester
+Безробітний, arbeitslos
+Приватний підприємець, angestellt
+Молодий, jung
+Стрес, der Stress
+Пакет, das Paket
+Відповідь, die Antwort
+Весілля, die Hochzeit
+Дитячий садок, der Kindergarten
+Стомлений, müde
