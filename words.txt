@@ -100,3 +100,81 @@
 Стомлений, müde
 Швидко, schnell
 Блискавка, blitz
+Привіт, Hallo
+Добрий ранок, Guten Morgen
+Добрий день, Guten Tag
+Добрий вечір, Guten Abend
+До побачення, Auf Wiedersehen
+Надобраніч, Gute Nacht
+Ім'я, der Name
+Звати, heißen
+Як?, Wie?
+Хто?, Wer?
+Що?, Was?
+Звідки?, Woher?
+Це є, Das ist
+Я є, Ich bin
+Чоловік, der Herr
+Жінка, die Frau
+Телефон, das Telefon
+Факс, das Fax
+Номер будинку, die Hausnummer
+Вулиця, die Straße
+Адрес, die Adresse
+Прізвище, der Familienname
+Місце, der Platz
+Місто, die Stadt
+Реєстрація, die Anmeldung
+Готель, das Hotel
+Гра, das Spiel
+Радіо, das Radio
+Музика, die Musik
+Фото, das Foto
+E-mail, die E-Mail
+Компанія, die Firma
+Інформація, die Information
+Колега, die Kollegin
+Форма, das Formular
+Малюнок, das Bild
+Розмова, das Gespräch
+Слово, das Wort
+Я, Ich
+Ти, Du
+І, und
+Так, ja
+Також, auch
+Ні, nein
+Міжнародний, international
+Траплятись, passieren
+Не, nicht
+З, mit
+Ви, Sie
+Бути там, da sein
+Будь ласка, bitte
+Дякую, danke
+Дякую 2, Vielen Dank
+Читати, lesen
+Бачити, sehen
+Сказати, sagen
+Радити, raten
+Відповідати, passen
+Призначити, zuordnen
+Питати, fragen
+Відмітити, markieren
+Добре, gut
+Думати, meinen
+Сторінка, die Seite
+Урок (Лекція), die Lektion
+Приклад, das beispiel
+Доповнити, ergänzen
+Вибачте, tut mir leid
+Виправдання, entschuldigung
+Німецька, Deutsch
+Земля, das Land
+Говорити, sprechen
+Мова, die Sprache
+Іноземна мова, die Fremdsprache
+Трохи, ein bisschen
+Щасливо, Freut mich
+Допобачення, Tschüss
+Ласкаво просимо, Willkommen
