@@ -112,6 +112,7 @@
 Хто?, Wer?
 Що?, Was?
 Звідки?, Woher?
+Де?, Wo?
 Це є, Das ist
 Я є, Ich bin
 Чоловік, der Herr
@@ -141,8 +142,13 @@ E-mail, die E-Mail
 Я, Ich
 Ти, Du
 І, und
+Він, er
+Вона, sie
+Ми, wir
+Їх, Ihr
 Так, ja
 Також, auch
+З, von
 Ні, nein
 Міжнародний, international
 Траплятись, passieren
@@ -178,3 +184,70 @@ E-mail, die E-Mail
 Щасливо, Freut mich
 Допобачення, Tschüss
 Ласкаво просимо, Willkommen
+Як ти?, Wie gehts?
+Супер, super
+Дуже добре, sehr gut
+Не так добре, nicht so gut
+Сім'я, die familie
+Друг, der Freund
+Подруга, die Freundin
+Чоловік, der Mann
+Батьки, Eltern
+Жінка, die Frau
+Батько, der Vater
+Мама, die Mutter
+Син, der Sohn
+Дочка, die Tochter
+Тітка, die Tante
+Дядько, der Onkel
+Брати і сестри, Geschwister
+Брат, der Bruder
+Сестра, die Schwester
+Дідо і баба, großeltern
+Дід, der Großvater
+Дід(звертання), der Opa
+Баба, die Großmutter
+Баба(звертання), die Oma
+Дитина, das Kind
+Маленька дитина, das Baby
+Вік, das Alter
+Сімейний стан, der Familienstand
+Місце народження, der Geburtsort
+Батьківщина, das Heimatland
+Проживання, der wohnort
+Жити, leben
+Мати дітей, Kinder haben
+Жити, wohnen
+Народився, geboren
+Розведений, geschieden
+Неодружений, ledig
+Одружений, verheiratet
+Вдовець, verwitwet
+Скільки років?, Wie alt?
+Рік, das Jahr
+Люди, Leute
+Номер, die Nummer
+Партер, der Partner
+Партнерша, die Partnerin
+Вечірка, die Party
+Пропозиція, der Satz
+Текст, der Text
+Перевірка, ankreuzen
+Заповнити, ausfüllen
+Мати, haben
+Записувати, schreiben
+Грати, spielen
+Вчити, studieren
+Уявити, sich vorstellen
+Думати, mein
+Правда, richtig
+Брехня, falsch
+В момент, im Moment
+Ще раз, noch einmal
+Багато, viele
+Дуже, sehr
+Вже, schon
+Або, oder
+Довго, lange
+В даний час, jetzt
+Але, aber
