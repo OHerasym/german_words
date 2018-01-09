@@ -299,3 +299,37 @@ E-mail, die E-Mail
 Він їсть, Er isst
 Смакує, schmecken
 Пити, trinken
+Скільки, Wie viel?
+Вага, das Gewicht
+Фунт, das Pfund
+Кілограм, das Kilo
+Літр, der Liter
+Чашка, der Becher
+Банка, die Dose
+Пляшка, die Flasche
+Упаковка, die Packung
+Покупка, der Einkauf
+Ринок, der Markt
+Людина, die Person
+Ресторан, das Restaurant
+Спеціальна пропозиція, das Sonderangebot
+Супермаркет, der Supermarkt
+Словник, das Wörterbuch
+Відповісти, antworten
+Потрібно, brauchen
+Вірити, glauben
+Допомога, helfen
+Купити, kaufen
+Б, möchten
+Називати, nennen
+Замітка, notieren
+Знак, zeichen
+Щось, etwas
+Із Задоволенням, gern
+Немає, kein
+Звичайно, natürlich
+В іншому випадку, sonst
+Може бути, vielleicht
+Більше, weiter
+Наприклад, zum Beispiel
+Вдома, zu Hause
