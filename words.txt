@@ -251,3 +251,51 @@ E-mail, die E-Mail
 Довго, lange
 В даний час, jetzt
 Але, aber
+Ціна, der Preis
+Євро, der Euro
+Цент, der Cent
+Коштує, kosten
+Хліб, das Brot
+Булочка, das Brötchen
+Яйце, das Ei
+Риба, der Fisch
+Напій, das Getränk
+Картопля, die Kartoffel
+Торт, der Kuchen
+Апельсин, der Orange
+Сік, der Saft
+Салат, der Salat
+Помідор, die Tomate
+Виноград, die Traube
+Продукти харчування, das Lebensmittel
+Банан, die Banane
+Груша, die Birne
+Ковбаса, die Wurst
+Пиво, das Bier
+Масло, die Butter
+Кола, die Cola
+М'ясо, das Fleisch
+Овочі, das Gemüse
+Кава, das Kaffee
+Сир, der Käse
+Молоко, die Milch
+Мінеральна вода, das Mineralwasser
+Фрукти, das Obst
+Олія, das Öl
+Рис, der Reis
+Сливки, die Sahne
+Сіль, die Salz
+Шинка, die Schinken
+Чай, der Tee
+Вино, der Wein
+Улюблений напій, das lieblingsessen-getränk
+Їжа, das Essen
+Курка, das Hähnchen
+Картопля фрі, Pommes
+Суп, die Suppe
+Соус, die Soße
+Спрага, Durst habben
+Бути голодним, Hunger haben
+Він їсть, Er isst
+Смакує, schmecken
+Пити, trinken
