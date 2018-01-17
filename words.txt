@@ -21,6 +21,7 @@
 Велисопед, das Fahrrad
 Компютерні ігри, das Computerspiel
 Зустрітись з друзями, Freunde treffen
+Зустрічатись, treffen
 Гриль, grillen
 Менеджер, der Manager
 Секретар, der Sekretär
@@ -297,6 +298,7 @@ E-mail, die E-Mail
 Спрага, Durst habben
 Бути голодним, Hunger haben
 Він їсть, Er isst
+Їсти, essen
 Смакує, schmecken
 Пити, trinken
 Скільки, Wie viel?
@@ -318,10 +320,12 @@ E-mail, die E-Mail
 Відповісти, antworten
 Потрібно, brauchen
 Вірити, glauben
-Допомога, helfen
+Допомогати, helfen
 Купити, kaufen
-Б, möchten
+Хотілося Б, möchten
 Називати, nennen
+Брити з собою, nehmen
+Находити, finden
 Замітка, notieren
 Знак, zeichen
 Щось, etwas
@@ -333,3 +337,7 @@ E-mail, die E-Mail
 Більше, weiter
 Наприклад, zum Beispiel
 Вдома, zu Hause
+Спати, schlafen
+Приблизно, zirka
+Мити прати, Waschen
+Знайомитись, kennenlernen
