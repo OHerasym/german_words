@@ -1,3 +1,21 @@
+Хто, Wer
+Що, Was
+Кого, Wen
+Куда, Wohin
+Кому, Wem
+Де, Wo
+Як, Wie
+Коли, Wann
+звідки, Woher
+чому, Warum
+мій, mein
+твій, dein
+його, sein
+жоден/ніякий, kein
+жодна/ніяка, kiene
+Зкільки років, Wie alt
+скільки, Wie viel
+
 Яблуко, der Apfel
 Грудень, der Dezember
 Листопад, der November
@@ -109,11 +127,6 @@
 Надобраніч, Gute Nacht
 Ім'я, der Name
 Звати, heißen
-Як?, Wie?
-Хто?, Wer?
-Що?, Was?
-Звідки?, Woher?
-Де?, Wo?
 Це є, Das ist
 Я є, Ich bin
 Чоловік, der Herr
@@ -252,6 +265,7 @@ E-mail, die E-Mail
 Довго, lange
 В даний час, jetzt
 Але, aber
+
 Ціна, der Preis
 Євро, der Euro
 Цент, der Cent
@@ -262,22 +276,33 @@ E-mail, die E-Mail
 Риба, der Fisch
 Напій, das Getränk
 Картопля, die Kartoffel
-Торт, der Kuchen
-Апельсин, der Orange
+пиріг, der Kuchen
+Апельсин, die Orange
 Сік, der Saft
 Салат, der Salat
 Помідор, die Tomate
 Виноград, die Traube
 Продукти харчування, das Lebensmittel
+Яблуко, der Apfel
 Банан, die Banane
 Груша, die Birne
+Ягода, die Beere
+Ківі, das Kiwi	
+Ананас, die Ananas
+Морква, die Möhre
+Спаржа, der Spargel
+Кол.капуста, der Blumenkohl
+Буряк, die Rübe
 Ковбаса, die Wurst
+Сосиски/ковбаска, das Würstchen
 Пиво, das Bier
 Масло, die Butter
 Кола, die Cola
+Гриб(и), der Pilz(e)
 М'ясо, das Fleisch
+Яловичина, das Rindfleisch
 Овочі, das Gemüse
-Кава, das Kaffee
+Кава, der Kaffee
 Сир, der Käse
 Молоко, die Milch
 Мінеральна вода, das Mineralwasser
@@ -285,23 +310,26 @@ E-mail, die E-Mail
 Олія, das Öl
 Рис, der Reis
 Сливки, die Sahne
-Сіль, die Salz
-Шинка, die Schinken
+Сіль, das Salz
+Шинка, der Schinken
 Чай, der Tee
 Вино, der Wein
-Улюблений напій, das lieblingsessen-getränk
+Лимон, die Zitrone
+Огірок, die Gurke(n)
+Улюблений напій, das Lieblingsgetränk
+Улюблена їжа, das Lieblingsessen
 Їжа, das Essen
-Курка, das Hähnchen
+Курятина, das Hähnchen
 Картопля фрі, Pommes
 Суп, die Suppe
 Соус, die Soße
-Спрага, Durst habben
+Хотіти пити, Durst haben
 Бути голодним, Hunger haben
 Він їсть, Er isst
 Їсти, essen
-Смакує, schmecken
+Пробувати/бути до смаку, schmecken
 Пити, trinken
-Скільки, Wie viel?
+Смачний, lecker
 Вага, das Gewicht
 Фунт, das Pfund
 Кілограм, das Kilo
@@ -337,7 +365,12 @@ E-mail, die E-Mail
 Більше, weiter
 Наприклад, zum Beispiel
 Вдома, zu Hause
+
 Спати, schlafen
 Приблизно, zirka
 Мити прати, Waschen
 Знайомитись, kennenlernen
+
+подумати, denken
+получати, bekommen
+знаменитий, gefeiert
