@@ -283,7 +283,6 @@ E-mail, die E-Mail
 Помідор, die Tomate
 Виноград, die Traube
 Продукти харчування, das Lebensmittel
-Яблуко, der Apfel
 Банан, die Banane
 Груша, die Birne
 Ягода, die Beere
