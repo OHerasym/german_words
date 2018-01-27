@@ -373,3 +373,67 @@ E-mail, die E-Mail
 подумати, denken
 получати, bekommen
 знаменитий, gefeiert
+Робоча кімната, das arbeitszimmer
+Ванна кімната, das Bad
+Балкон, der Balkon
+Коридор, der Flur
+Сад, der Garten
+Дім, das Haus
+Квартира, die Wohnung
+Дитяча кімната, das Kinderzimmer
+Кухня, die Küche
+Спальня, das Schlafzimmer
+Поверх, der Stock
+Тераса, die Terrasse
+Туалет, die Toilette
+Кімната для гостей, das Wohnzimmer
+Кімната, das Zimmer
+Меблі, das Möbel
+Ванна, die Badewanne
+Ліжко, das Bett
+Душ, die Dusche
+Телевізор, der Fernseher
+Плита, der Herd
+Холодильник, der Kühlschrank
+Шафа, der Schrank
+Диван, das Sofa
+Лампа, die Lampe
+Крісло, der Stuhl
+Стіл, der Tisch
+Пральна машина, die Waschmaschine
+Квартира, das apartment
+Квадратний метр, der quadratmeter
+Квартира, die ferienwohnung
+Орендна плата, die Miete
+Оренда, mieten
+Оренда, vermieten
+Мебльована, möbliert
+Колір, die Farbe
+Синій, blau
+Коричневий, braun
+Жовтий, gelb
+Сірий, grau
+Зелений, grün
+Червоний, rot
+Чорний, schwarz
+Білий, weiß
+Дешево, billig
+Поганий, böse
+Широкий, breit
+Темний, dunkel
+Дружній, freundlich
+Великий, groß
+Потворний, hässlich
+Яскравий, hell
+Ввічливий, höflich
+Цікавий, interessant
+Маленький, klein
+Сучасний, modern
+Новий, neu
+Фактично, praktisch
+Недорогий, preiswert
+Тихо, ruhig
+Вузький, schmal
+Красивий, schön
+Дорогий, teuer
+Центральний, zentral
