@@ -437,3 +437,37 @@ E-mail, die E-Mail
 Красивий, schön
 Дорогий, teuer
 Центральний, zentral
+Стаття, der Artikel
+Професія, der Beruf
+Історія, die Geschichte
+Природа, die Natur
+Стажування, das Praktikum
+Студент, der Student
+Свято, der Urlaub
+Час, die Zeit
+Платити, bezahlen
+Знайти, finden
+Пошук, suchen
+Любити,lieben
+Зробити, machen
+Організувати, orden
+Порівняти, vergleichen
+Безкоштовно, frei
+Повний, voll
+Терміново, dringend
+Всі, alles
+так, also
+Зокрема, besonders
+Звичайно, bestimmt
+Це, es
+Нажаль, leider
+По крайній мірі, mindestens
+не, nicht
+Тільки, nur
+Негайно, sofort
+Особливо, vor allem
+Насправді, wirklich
+Там, dort
+Тут, hier
+Увага, Vorsicht
+Чому?, Warum?
