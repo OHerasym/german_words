@@ -471,3 +471,39 @@ E-mail, die E-Mail
 Тут, hier
 Увага, Vorsicht
 Чому?, Warum?
+День, der Tag
+Ранок, der Morgen
+Середина дня, der Mittag
+Після полудня, der Nachmittag
+Вечір, der Abend
+Ніч, die Nacht
+Вранці, am Morgen
+Вночі, in der Nacht
+Тиждень, die Woche
+Понеділок, der Montag
+Вівторок, der Dienstag
+Середа, der Mittwoch
+Четвер, der Donnerstag
+П'ятниця, der Freitag
+Субота, der Samstag
+Неділя, der Sonntag
+У понеділок, am Montag
+кожен понеділок, jeden Montag
+кожен ранок, jeden Morgen
+сьогодні, heute
+Завтра, morgen
+Післязавтра, übermorgen
+Відкритий, geöffnet
+Коли?, Wann?
+Від до, von bis
+Бізнес-час, die geschäftszeit
+Консультація, die sprechstunde
+Час відкриття, die öffnungszeit
+Годинник, die Uhr
+Година(час), die Uhrzeit
+Наполовину (час), es ist halb
+Без четверті три, es ist viertel vor drei
+Пятнядцять по треті, es ist viertel nach drei
+Це станеться в, es ist kurz vor
+незабаром після цього, es ist kurz nach
+яка година, wie spät?
