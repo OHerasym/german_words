@@ -1,0 +1,14 @@
+Рука, der Arm
+Око, das Auge
+Живіт, der Bauch
+Нога, das Bein
+Палець, der Finger
+Стопа, der Fuß
+Волося, der Haar
+Шия, der Hals
+Запястя, der Hand
+Голова, der Kopf
+Рот, der Mund
+Ніс, die Nase
+Вухо, das Ohr
+Зуб, der Zahr

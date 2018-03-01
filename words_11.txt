@@ -1,0 +1,16 @@
+Прямо, geradeaus
+На ліво, links
+На право, rechts
+там, da drüben
+Там спереду, da vorne
+Назад туди, da vinten
+Вниз там, da unten
+Метро, die U-Bahn
+Автобус, der Bus
+Літак, das Flugzeug
+Грузова машина, der Lkw
+Трамвай, die Straßenbahn
+Таксі, das Taxi
+Поїзд, der Zug
+Вихід, der Ausgang
+Вхід, der Eingang
