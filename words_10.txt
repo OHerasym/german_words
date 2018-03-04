@@ -12,3 +12,43 @@
 Ніс, die Nase
 Вухо, das Ohr
 Зуб, der Zahr
+Доктор, der Doktor
+Температура, das Fieber
+Здоровя, die Gesundheit
+Хвороба, die Krankheit
+Медецина.Ліки, die Medizin
+Практика, die Praxis
+Біль, der Schmerz
+Таблетка, die Tablette
+Кашель, husten
+Досліджувати, untersuchen
+Болить, wehtun
+Здоровий, gesund
+Погано, krank
+Скасувати, absagen
+Згідний, vereinbaren
+Рух, verschieben
+Відправник, der Absender
+Отримувач, der Empfänger
+Дата, das Datum
+Привітання, der Gruß
+Підпис, die Unterschrift
+Повинен, sollen
+Пробувати, versuchen
+Повинен, werden
+Товстий, dick
+Нервуватись, nervös
+Мертвий, tot
+Обережний, vordichtig
+Інформація, die Auskunft
+Дама, die Dame
+Рекомендація, die Empfehlung
+Перукарня, die Frisör
+Життя, das Leben
+Людина, der Mensch
+Шоколад, die Schokolade
+Зміна, ändern
+Подивитись, aussehen
+Візит, besuchen
+Дякувати, danken
+Запрошувати, einladen
